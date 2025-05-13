@@ -1,0 +1,11 @@
+fastapi
+pydantic
+langchain
+langchain-core
+sentence_transformers
+langchain-community
+uvicorn
+pypdf
+chromadb
+langchain-huggingface
+faiss
